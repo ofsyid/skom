@@ -17,9 +17,10 @@ body {
 .greetings {
   font-size: 4rem;
   font-weight: 900;
+  text-align: center;
 }
 .greetings > span {
-  animation: glow 1.5s ease-in-out infinite;
+  animation: glow 1.6s ease-in-out infinite;
 }
 @keyframes glow {
   0%,
